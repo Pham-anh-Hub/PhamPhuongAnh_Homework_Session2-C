@@ -6,9 +6,9 @@ int main(){
 	
 	printf("\nNhap chieu rong b: ");
 	scanf("%d",&b);
-	int circlue = (a+b)*2;
+	int circuit = (a+b)*2;
 	int square = a*b;
-	printf("\nChu vi hinh chu nhat la: %d",circlue);
+	printf("\nChu vi hinh chu nhat la: %d",circuit);
 	printf("\nDien tich hinh chu nhat la: %d",square);
 	return 0;
 }
